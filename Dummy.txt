@@ -1,1 +1,1 @@
-Hi this file is purpose to use for GIT learn;
+Hi this file purpose is use to learn GIT;
