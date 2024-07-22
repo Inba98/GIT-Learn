@@ -1,6 +1,8 @@
-[
-    {"Name:Inbakumar";
 
-    "Intial: A";
-}
-]
+{  
+    "employee": {  
+        "name":       "Yogi",   
+        "salary":      56000,   
+        "married":    true  
+    }  
+}  
